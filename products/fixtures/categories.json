@@ -1,18 +1,58 @@
-[
+  },
   {
-    "pk": 1,
+    "pk": 3,
     "model": "products.category",
     "fields": {
-      "name": "men",
-      "friendly_name": "Men"
+      "name": "winter_prolimit",
+      "friendly_name": "Prolimit"
     }
   },
   {
-    "pk": 2,
+    "pk": 4,
     "model": "products.category",
     "fields": {
-      "name": "women",
-      "friendly_name": "Women"
+      "name": "shortarm_mystic",
+      "friendly_name": "Mystic"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.category",
+    "fields": {
+      "name": "shortarm_neilpryde",
+      "friendly_name": "Neilpryde"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.category",
+    "fields": {
+      "name": "shortarm_prolimit",
+      "friendly_name": "Prolimit"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.category",
+    "fields": {
+      "name": "shorty_mystic",
+      "friendly_name": "Mystic"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.category",
+    "fields": {
+      "name": "shorty_neilpryde",
+      "friendly_name": "Neilpryde"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.category",
+    "fields": {
+      "name": "shorty_prolimit",
+      "friendly_name": "Prolimit"
     }
   }
 ]
