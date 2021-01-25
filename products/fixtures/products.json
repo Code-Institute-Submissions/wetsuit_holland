@@ -5,7 +5,7 @@
   "fields": {
     "category": 1,
     "sku": "wsh101",
-    "name": "MYSTIC MAJESTIC FULLSUIT 5/3MM BZIP 2021",
+    "name": "MYSTIC MAJESTIC FULLSUIT Night Blue 5/3MM BZIP 2021",
     "description": "Night Blue",
     "has_sizes": true,
     "price": "369.99",
@@ -20,8 +20,8 @@
   "fields": {
     "category": 1,
     "sku": "wsh102",
-    "name": "MYSTIC MAJESTIC FULLSUIT 5/3MM BZIP 2021",
-    "description": "Night Blue",
+    "name": "MYSTIC MAJESTIC FULLSUIT Grey 5/3MM BZIP 2021",
+    "description": "Grey",
     "has_sizes": false,
     "price": "369.99",
     "rating": "4.00",
@@ -35,7 +35,7 @@
   "fields": {
     "category": 1,
     "sku": "wsh103",
-    "name": "MYSTIC MAJESTIC FULLSUIT 5/3MM BZIP 2021",
+    "name": "MYSTIC MAJESTIC FULLSUIT Black 5/3MM BZIP 2021",
     "description": "Black",
     "has_sizes": true,
     "price": "369.99",
@@ -95,7 +95,7 @@
   "fields": {
     "category": 3,
     "sku": "wsh302",
-    "name": "PRO LIMIT FUSION STEAMER 5/3 FREEZIP DL 2021",
+    "name": "PRO LIMIT FUSION STEAMER NAVY 5/3 FREEZIP DL 2021",
     "description": "Navy",
     "has_sizes": true,
     "price": "219.00",
@@ -110,7 +110,7 @@
   "fields": {
     "category": 3,
     "sku": "wsh303",
-    "name": "PRO LIMIT FUSION STEAMER 5/3 FREEZIP DL 2021",
+    "name": "PRO LIMIT FUSION STEAMER TEAL/BLACK 5/3 FREEZIP DL 2021",
     "description": "Teal/Black",
     "has_sizes": true,
     "price": "219.00",
@@ -290,7 +290,7 @@
   "fields": {
     "category": 9,
     "sku": "wsh901",
-    "name": "PRO LIMIT FUSION SHORTY 2/2 DL 2020",
+    "name": "PRO LIMIT FUSION SHORTY Slateblack 2/2 DL 2020",
     "description": "Slateblack",
     "has_sizes": true,
     "price": "79.00",
@@ -305,7 +305,7 @@
   "fields": {
     "category": 9,
     "sku": "wsh902",
-    "name": "PRO LIMIT FUSION SHORTY 2/2 DL 2020",
+    "name": "PRO LIMIT FUSION SHORTY Grey/R.Blue/Orange /2 DL 2020",
     "description": "Grey/R.Blue/Orange",
     "has_sizes": true,
     "price": "79.00",
