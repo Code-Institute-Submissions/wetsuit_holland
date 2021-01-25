@@ -1,0 +1,494 @@
+[
+{
+  "model": "products.category",
+  "pk": 1,
+  "fields": {
+    "name": "winter_mystic",
+    "friendly_name": "Mystic"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 2,
+  "fields": {
+    "name": "winter_neilpryde",
+    "friendly_name": "Neilpryde"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 3,
+  "fields": {
+    "name": "winter_prolimit",
+    "friendly_name": "Prolimit"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 4,
+  "fields": {
+    "name": "shortarm_mystic",
+    "friendly_name": "Mystic"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 5,
+  "fields": {
+    "name": "shortarm_neilpryde",
+    "friendly_name": "Neilpryde"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 6,
+  "fields": {
+    "name": "shortarm_prolimit",
+    "friendly_name": "Prolimit"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 7,
+  "fields": {
+    "name": "shorty_mystic",
+    "friendly_name": "Mystic"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 8,
+  "fields": {
+    "name": "shorty_neilpryde",
+    "friendly_name": "Neilpryde"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 9,
+  "fields": {
+    "name": "shorty_prolimit",
+    "friendly_name": "Prolimit"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "sku": "wsh101",
+    "name": "MYSTIC MAJESTIC FULLSUIT 5/3MM BZIP 2021",
+    "description": "Night Blue",
+    "has_sizes": true,
+    "price": "369.99",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "mystic-majestic-fullsuit-5-3mm-bzip-2021_584x584_150015.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "category": 1,
+    "sku": "wsh102",
+    "name": "MYSTIC MAJESTIC FULLSUIT 5/3MM BZIP 2021",
+    "description": "Night Blue",
+    "has_sizes": false,
+    "price": "369.99",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "mystic-majestic-fullsuit-5-3mm-bzip-2021_584x584_150239.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "category": 1,
+    "sku": "wsh103",
+    "name": "MYSTIC MAJESTIC FULLSUIT 5/3MM BZIP 2021",
+    "description": "Black",
+    "has_sizes": true,
+    "price": "369.99",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "mystic-marshall-fullsuit-5-3mm-bzip-2021_584x584_150246.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 4,
+  "fields": {
+    "category": 1,
+    "sku": "wsh104",
+    "name": "MYSTIC MARSHALL FULLSUIT 5/3MM FZIP 2021",
+    "description": "Night Blue",
+    "has_sizes": true,
+    "price": "269.95",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "mystic-marshall-fullsuit-5-3mm-fzip-2021_584x584_149702.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "category": 2,
+    "sku": "wsh201",
+    "name": "NEIL PRYDE CORTEX 5/4/3 BZ 2020",
+    "description": "black",
+    "has_sizes": true,
+    "price": "249.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "neil-pryde-cortex-5-4-3-bz-2020_584x584_145418.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 6,
+  "fields": {
+    "category": 3,
+    "sku": "wsh301",
+    "name": "PRO LIMIT VAPOR FREE-X 6/4 2021",
+    "description": "BLUE/GREY",
+    "has_sizes": true,
+    "price": "369.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-vapor-free-x-6-4-2021_584x584_149838.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 7,
+  "fields": {
+    "category": 3,
+    "sku": "wsh302",
+    "name": "PRO LIMIT FUSION STEAMER 5/3 FREEZIP DL 2021",
+    "description": "Navy",
+    "has_sizes": true,
+    "price": "219.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-fusion-steamer-5-3-freezip-dl-2021_584x584_150165.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 8,
+  "fields": {
+    "category": 3,
+    "sku": "wsh303",
+    "name": "PRO LIMIT FUSION STEAMER 5/3 FREEZIP DL 2021",
+    "description": "Teal/Black",
+    "has_sizes": true,
+    "price": "219.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-fusion-steamer-5-3-freezip-dl-2021_584x584_148820.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 9,
+  "fields": {
+    "category": 3,
+    "sku": "wsh304",
+    "name": "PRO LIMIT FUSION STEAMER 5/3 DL 2021",
+    "description": "Navy",
+    "has_sizes": true,
+    "price": "219.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-fusion-steamer-5-3-dl-2021_584x584_148818.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 10,
+  "fields": {
+    "category": 3,
+    "sku": "wsh305",
+    "name": "PRO LIMIT PREDATOR STEAMER DOWNAIRFLEX 6/4 V-BACKZIP FTM 2021",
+    "description": "Slate Black",
+    "has_sizes": true,
+    "price": "299.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-predator-steamer-downairflex-6-4-v-backzip-ftm-2021_584x584_148813.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 11,
+  "fields": {
+    "category": 3,
+    "sku": "wsh306",
+    "name": "PRO LIMIT PREDATOR STEAMER FREEZIP DOWNAIRFLEX 6/4 FTM 2021",
+    "description": "Slate Black",
+    "has_sizes": true,
+    "price": "299.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-predator-steamer-freezip-downairflex-6-4-ftm-2021_584x584_148816.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 12,
+  "fields": {
+    "category": 3,
+    "sku": "wsh307",
+    "name": "PRO LIMIT PREDATOR STEAMER DOWNAIRFLEX 5/3 GBS V-BACKZIP 2021",
+    "description": "Slate Black",
+    "has_sizes": true,
+    "price": "279.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-predator-steamer-downairflex-5-3-gbs-v-backzip-2021_584x584_148815.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 13,
+  "fields": {
+    "category": 3,
+    "sku": "wsh308",
+    "name": "PRO LIMIT FUSION 4/3 (DL) 2020",
+    "description": "black",
+    "has_sizes": true,
+    "price": "149.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-fusion-4-3-dl-2020_584x584_147893.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 14,
+  "fields": {
+    "category": 3,
+    "sku": "wsh309",
+    "name": "PRO LIMIT FUSION STEAMER 4/3 FREEZIP DL 2019",
+    "description": "Slate Black/N. Yellow",
+    "has_sizes": true,
+    "price": "129.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-fusion-steamer-4-3-freezip-dl-2019_584x584_141110.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 15,
+  "fields": {
+    "category": 4,
+    "sku": "wsh401",
+    "name": "MYSTIC BRAND SHORTARM 3/2MM BZIP FLATLOCK 2019",
+    "description": "Black",
+    "has_sizes": true,
+    "price": "69.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "mystic-brand-shortarm-3-2mm-bzip-flatlock-2019_584x584_132633.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 16,
+  "fields": {
+    "category": 5,
+    "sku": "wsh501",
+    "name": "NEIL PRYDE RISE SF 32 2018",
+    "description": "Black",
+    "has_sizes": true,
+    "price": "89.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "neil-pryde-rise-sf-32-2018_584x584_149558.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 17,
+  "fields": {
+    "category": 5,
+    "sku": "wsh502",
+    "name": "NEIL PRYDE RISE SF 32 2018",
+    "description": "Blue",
+    "has_sizes": true,
+    "price": "89.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "neil-pryde-rise-sf-32-2018_584x584_149566.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 18,
+  "fields": {
+    "category": 5,
+    "sku": "wsh503",
+    "name": "NEIL PRYDE RISE SF 32 2018",
+    "description": "Grey, Blue, Black",
+    "has_sizes": true,
+    "price": "89.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "neil-pryde-rise-sf-32-2018_584x584_149560.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 19,
+  "fields": {
+    "category": 5,
+    "sku": "wsh504",
+    "name": "NEIL PRYDE RISE SF 32 2018",
+    "description": "Green, Black",
+    "has_sizes": true,
+    "price": "89.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "neil-pryde-rise-sf-32-2018_584x584_149562.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 20,
+  "fields": {
+    "category": 5,
+    "sku": "wsh505",
+    "name": "NEIL PRYDE RISE SF 32 2018",
+    "description": "Black",
+    "has_sizes": true,
+    "price": "89.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "neil-pryde-rise-sf-32-2018_584x584_149564.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 21,
+  "fields": {
+    "category": 5,
+    "sku": "wsh507",
+    "name": "NEIL PRYDE RISE SF 32 2018",
+    "description": "Grey",
+    "has_sizes": true,
+    "price": "89.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "neil-pryde-rise-sf-32-2018_584x584_149554.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 22,
+  "fields": {
+    "category": 5,
+    "sku": "wsh506",
+    "name": "NEIL PRYDE RISE SF 32 2018",
+    "description": "Blue, Yellow, Black",
+    "has_sizes": true,
+    "price": "89.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "neil-pryde-rise-sf-32-2018_584x584_149556.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 23,
+  "fields": {
+    "category": 6,
+    "sku": "wsh601",
+    "name": "PRO LIMIT RAIDER STEAMER 3/2 SHORTARM 2019",
+    "description": "Black/Grey",
+    "has_sizes": true,
+    "price": "79.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "pro-limit-raider-steamer-3-2-shortarm-2019_584x584_141111.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 24,
+  "fields": {
+    "category": 7,
+    "sku": "wsh701",
+    "name": "MYSTIC BRAND SHORTY 3/2MM BZIP FLATLOCK 2020",
+    "description": "Navy",
+    "has_sizes": true,
+    "price": "79.95",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "mystic-brand-shorty-3-2mm-bzip-flatlock-2020_584x584_145413.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 25,
+  "fields": {
+    "category": 8,
+    "sku": "wsh801",
+    "name": "NEIL PRYDE RISE SH 22 2018",
+    "description": "Grey",
+    "has_sizes": true,
+    "price": "39.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "neilpryde-rise-s-s-shorty-2-2-fl-bz-2020.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 31,
+  "fields": {
+    "category": 9,
+    "sku": "wsh901",
+    "name": "PRO LIMIT FUSION SHORTY 2/2 DL 2020",
+    "description": "Slateblack",
+    "has_sizes": true,
+    "price": "79.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-fusion-shorty-2-2-dl-2020_584x584_146473.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 32,
+  "fields": {
+    "category": 9,
+    "sku": "wsh902",
+    "name": "PRO LIMIT FUSION SHORTY 2/2 DL 2020",
+    "description": "Grey/R.Blue/Orange",
+    "has_sizes": true,
+    "price": "79.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-fusion-shorty-2-2-dl-2020_584x584_146471.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 33,
+  "fields": {
+    "category": 9,
+    "sku": "wsh903",
+    "name": "PRO LIMIT STYLE SHORTY 2015",
+    "description": "Black dessin",
+    "has_sizes": true,
+    "price": "29.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "pro-limit-style-shorty-2015_584x584_115913.jpg"
+  }
+}
+]
