@@ -236,7 +236,7 @@
     "price": "89.00",
     "rating": "3.00",
     "image_url": null,
-    "image": "neil-pryde-rise-sf-32-2018_584x584_149558.jpg"
+    "image": "3970962597-NeilprydeshortarmwetsuitRise3-2funsportmakkum_TUUM8Gq.jpg"
   }
 },
 {
@@ -312,21 +312,6 @@
     "rating": "4.00",
     "image_url": null,
     "image": "pro-limit-fusion-shorty-2-2-dl-2020_584x584_146471.jpg"
-  }
-},
-{
-  "model": "products.product",
-  "pk": 33,
-  "fields": {
-    "category": 9,
-    "sku": "wsh903",
-    "name": "PRO LIMIT STYLE SHORTY 2015",
-    "description": "Black dessin",
-    "has_sizes": true,
-    "price": "29.00",
-    "rating": "3.00",
-    "image_url": null,
-    "image": "pro-limit-style-shorty-2015_584x584_115913.jpg"
   }
 },
 {
