@@ -328,5 +328,125 @@
     "image_url": null,
     "image": "pro-limit-style-shorty-2015_584x584_115913.jpg"
   }
+},
+{
+  "model": "products.product",
+  "pk": 34,
+  "fields": {
+    "category": 2,
+    "sku": "wsh202",
+    "name": "NEIL PRYDE MISSION FZ FS GBS 32 2018",
+    "description": "Black",
+    "has_sizes": true,
+    "price": "159.00",
+    "rating": "5.00",
+    "image_url": null,
+    "image": "neil-pryde-mission-fz-fs-gbs-32-2018_585x585.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 35,
+  "fields": {
+    "category": 3,
+    "sku": "wsh310",
+    "name": "PRO LIMIT FIRE STEAMER 5/3 DL 2021",
+    "description": "Black/Turquoise",
+    "has_sizes": true,
+    "price": "219.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "pro-limit-fire-freezipsteamer-5-3-dl-2021_584x584_148824.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 36,
+  "fields": {
+    "category": 3,
+    "sku": "wsh311",
+    "name": "PRO LIMIT FLARE DOWNAIRFLEX FREEZIP STEAMER 5/3 ZODIAC 2021",
+    "description": "Navy/Turquoise",
+    "has_sizes": true,
+    "price": "279.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-fire-steamer-5-3-dl-2021_584x584_148822.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 37,
+  "fields": {
+    "category": 3,
+    "sku": "wsh312",
+    "name": "PRO LIMIT FUSION 4/3 (DL) 2020",
+    "description": "Black",
+    "has_sizes": true,
+    "price": "149.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "pro-limit-fusion-4-3-dl-2020_584x584_147893_xyZpjIe.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 38,
+  "fields": {
+    "category": 3,
+    "sku": "wsh314",
+    "name": "PRO LIMIT GROMMET FREEZIP STEAMER 5/3 DL 2020",
+    "description": "Slateblack/blue/orange",
+    "has_sizes": true,
+    "price": "119.00",
+    "rating": "5.00",
+    "image_url": null,
+    "image": "pro-limit-grommet-freezip-steamer-5-3-dl-2020_584x584_132669.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 39,
+  "fields": {
+    "category": 3,
+    "sku": "wsh315",
+    "name": "PRO LIMIT GROMMET STEAMER 5/3 2021",
+    "description": "Blue/Red",
+    "has_sizes": true,
+    "price": "109.99",
+    "rating": "5.00",
+    "image_url": null,
+    "image": "pro-limit-grommet-steamer-5-3-2021_584x584_150280.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 40,
+  "fields": {
+    "category": 3,
+    "sku": "wsh316",
+    "name": "PRO LIMIT OXYGEN TR STEAMER 6/4 FREEZIP DL FTM 2021",
+    "description": "Black/Misty Grey",
+    "has_sizes": true,
+    "price": "349.00",
+    "rating": "3.00",
+    "image_url": null,
+    "image": "pro-limit-oxygen-tr-steamer-6-4-freezip-dl-ftm-2021_584x584_148826.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 41,
+  "fields": {
+    "category": 3,
+    "sku": "wsh317",
+    "name": "PRO LIMIT FUSION STEAMER 3/2 (DL) 2018",
+    "description": "Blue/red/navy",
+    "has_sizes": true,
+    "price": "99.00",
+    "rating": "4.00",
+    "image_url": null,
+    "image": "pro-limit-fusion-steamer-3-2-dl-2018_584x584.jpg"
+  }
 }
 ]
