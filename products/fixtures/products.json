@@ -361,21 +361,6 @@
 },
 {
   "model": "products.product",
-  "pk": 37,
-  "fields": {
-    "category": 3,
-    "sku": "wsh312",
-    "name": "PRO LIMIT FUSION 4/3 (DL) 2020",
-    "description": "Black",
-    "has_sizes": true,
-    "price": "149.00",
-    "rating": "3.00",
-    "image_url": null,
-    "image": "pro-limit-fusion-4-3-dl-2020_584x584_147893_xyZpjIe.jpg"
-  }
-},
-{
-  "model": "products.product",
   "pk": 38,
   "fields": {
     "category": 3,
