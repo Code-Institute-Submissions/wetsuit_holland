@@ -99,27 +99,27 @@ All the folders:
   - Bag icon link to bag page
 - Delivery banner: text info
 - Homepage: button with link to all products page
-- Signup:
-- Form field: e-mail address, e-mail address confirmation, username, password, password confirmation
-- Buttons: back to login, sign up
+- Signup: form field, buttons
+    - Form field: e-mail address, e-mail address confirmation, username, password, password confirmation
+    - Buttons: back to login, sign up
 - Login:
   - Form field with: e-mail address, password
   - Checkbox: remember me
   - Buttons:  home, sign in
-- Password Reset:
-- Form field: e-mail address
-- Button:  back to login, reset my password
-- Logout buttons: cancel, sign out
-- Profile:
-- Form field: phone number, street address 1, street address 2, town or city, country, state or locality, postal code, country dropdown menu (all the countries included)
-- Button: update information
-- Overview order history:
+- Password Reset: 
+    - Form field: e-mail address
+    - Button:  back to login, reset my password
+    - Logout buttons: cancel, sign out
+- Profile: 
+    - Form field: phone number, street address 1, street address 2, town or city, country, state or locality, postal code, country dropdown menu (all the countries included)
+    - Button: update information
+    - Overview order history:
 - Add Product:
-- Form field: category dropdown menu, sku, product name, product description, sizes dropdown menu, rating, image url
-- Button: select image, cancel, add product
-- Edit Product: form field, the same as add product. Extra option: checkbox: remove image
-- Confirm E-mail: Button with confirm
-- Toasts: to display messages as pop ups on every page using django messages module, with messages for most actions across the website.
+    - Form field: category dropdown menu, sku, product name, product description, sizes dropdown menu, rating, image url
+    - Button: select image, cancel, add product
+    - Edit Product: form field, the same as add product. Extra option: checkbox: remove image
+    - Confirm E-mail: Button with confirm
+    - Toasts: to display messages as pop ups on every page using django messages module, with messages for most actions across the website.
 
 ## Surface
 - Font Family text font: standard
@@ -140,17 +140,17 @@ All the folders:
 - Main-navbar:
   - Text color: black
   - Text color inside searchbar: light grey
-  - Background color collapsible product menu:
+  - Background color collapsible product menu: white
   - Background color collapsible Search and My Account icons: white
-  - Icons color: black
+  - Icons color: blue
 - Shopping Cart Icon when filled: blue
-- Delivery banner:
+- Delivery banner: black
 - Text color: white
 - Background color:black
 - Home Page:
   - Full page image
   - Button: black, white text
-  - Button hover over:
+  - Button hover over: dark grey, white text
 - Sign Up Page:
   - Background: white
   - Title: dark grey
