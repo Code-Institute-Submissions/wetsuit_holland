@@ -229,9 +229,12 @@ All the folders:
   - Button: black, white text
 
 ## Mockups
-The following wireframes were created using Balsamiq to design the website layout options:
+The following wireframes were created using Balsamiq to design the website layout options:<br>
+Small devices <br>
 ![Small Devices](media/small.jpg)<br>
+Medium devices <br>
 ![Medium Devices](media/medium.jpg)<br>
+Large devices <br>
 ![Large Devices](media/large.jpg)<br>
 
 # Features
