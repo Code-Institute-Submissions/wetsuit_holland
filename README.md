@@ -84,19 +84,19 @@ All the folders:
 - Checkout Page: buttons
 
 ## Skeleton
-- Main Nav Menu:
-  - All Products is a collapsible menu: by Price, by Rating, by Category & all Products
-    - Fullsuitis a collapsible menu: Mystic, Neilpryde, Prolimit & all Fullsuit
-    - Shortarm is a collapsible menu: Mystic, Neilpryde, Prolimit & all Shortarm
-    - Shorty is a collapsible menu: Mystic, Neilpryde, Prolimit & all Shorty
 - Top Nav:
-  - Title: link to homepage (large device) or Home: link to homepage (medium/small devices)
+  - Title: icon + link to homepage (large device) or Home: link to homepage (medium/small devices)
   - Searchbar: searches through all wetsuits
   - My Account icon with dropdown menu:
     - Logged out user: Register, Login
     - Logged in user: My Profile, Logout
     - Logged in admin: Product Management, My Profile, Logout
   - Bag icon link to bag page
+- Main Nav Menu:
+  - All Products is a collapsible menu: by Price, by Rating, by Category & all Products
+    - Fullsuits a collapsible menu: Mystic, Neilpryde, Prolimit & all Fullsuit
+    - Shortarm is a collapsible menu: Mystic, Neilpryde, Prolimit & all Shortarm
+    - Shorty is a collapsible menu: Mystic, Neilpryde, Prolimit & all Shorty
 - Delivery banner: text info
 - Homepage: button with link to all products page
 - Signup: form field, buttons
@@ -127,22 +127,22 @@ All the folders:
 - Home Page background: full image
 - Color schema: black & blue <br>
 ![Blue](media/blue.JPG)<br>
-- Top-navbar:
-- Text color: black
-- Text color inside searchbar: light grey
-- Background color: white
-- Icons: black
 - Header top-navbar and main-navbar on medium and small devices:
   - Text color: black
   - Text color inside searchbar: light grey
   - Background color: white
   - Icons color: black
-- Main-navbar:
+- Main-navbar on large devices:
   - Text color: black
   - Text color inside searchbar: light grey
   - Background color collapsible product menu: white
   - Background color collapsible Search and My Account icons: white
   - Icons color: blue
+- Top-navbar on large devices:
+    - Text color: black
+    - Text color inside searchbar: light grey
+    - Background color: white
+    - Icons: black
 - Shopping Cart Icon when filled: blue
 - Delivery banner: black
 - Text color: white
